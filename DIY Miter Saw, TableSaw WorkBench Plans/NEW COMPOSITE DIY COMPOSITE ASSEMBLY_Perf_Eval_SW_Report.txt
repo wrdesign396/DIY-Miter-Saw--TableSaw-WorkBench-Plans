@@ -1,0 +1,5 @@
+The following messages were automatically dismissed when this file was opened
+
+File	Message	Response	
+NEW COMPOSITE DIY COMPOSITE ASSEMBLY.SLDASM	This document contains other parts and/or assemblies that were saved in a rolled back state.  Do you want to roll them forward?	Yes
+
